@@ -20,3 +20,10 @@ Upload your PDFs or text files, build a vector index, and then **chat with your 
 ```bash
 git clone https://github.com/your-username/rag-ai-agent.git
 cd rag-ai-agent
+
+## Create and activate a virtual environment
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/rag-ai-agent.git
+cd rag-ai-agent
