@@ -3,9 +3,8 @@
 A simple **Retrieval-Augmented Generation (RAG)** app built with **Streamlit**, **OpenAI embeddings**, and **FAISS**.  
 Upload your PDFs or text files, build a vector index, and then **chat with your documents** — with inline citations.  
 
----
 
-## 🚀 Features
+## Features
 - 📂 Upload PDFs / TXT / MD files  
 - ✂️ Chunking + overlap for context preservation  
 - 🔎 FAISS vector search for fast semantic retrieval  
