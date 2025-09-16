@@ -1,4 +1,4 @@
-# 🧠 RAG AI Agent (Streamlit + OpenAI + FAISS)
+# 🧠 RAG AI Agent
 
 A simple **Retrieval-Augmented Generation (RAG)** app built with **Streamlit**, **OpenAI embeddings**, and **FAISS**.  
 Upload your PDFs or text files, build a vector index, and then **chat with your documents** — with inline citations.  
